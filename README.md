@@ -1,2 +1,3 @@
 # bilibili-real-time-airplay
-BiliBili实时播放量
+查询Bilibili实时播放量
+~~1分钟左右才能获取一次~~
